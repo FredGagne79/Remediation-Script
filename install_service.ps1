@@ -1,4 +1,4 @@
-﻿get-Module -Name ImportExcel
+Install-Module -Name ImportExcel
 
 Install-Module Microsoft.Graph -Scope AllUsers
 
